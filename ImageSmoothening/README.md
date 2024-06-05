@@ -1,5 +1,5 @@
 **Input Image (with Wrinkles):**
-![Alt text for input image](Results/Test_image.jpg) { display: block; float: left; width: 48%; }
+![Alt text for input image](Results/Test_image.jpg) ![Alt text for output image](Results/output_image.jpg)
 
 **Output Image (Smoothened):**
 ![Alt text for output image](Results/output_image.jpg) { display: block; float: right; width: 48%; }
