@@ -5,7 +5,11 @@ it allows users to set some rules and after that use them as per requirements
 # Steps to run
 1:- clone reposiroty.
 
-2:- install requirements with pip install -r requirements.txt  make sure the path is correct in your case.
+2:- install requirements with
+``` bash
+pip install -r requirements.txt
+```
+make sure the path is correct in your case.
 
 3:- run app.py file .
 
